@@ -11,4 +11,4 @@ python ur5e.py
 see also the [pybullet quickstart guide](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#)
 
 UR5e:
-<img arc="https://github.com/alpha-soliton/IRLandILinUR5e/blob/master/env/pybulletenv/ur5e_env/test_env/screenshot_ur5e_testenv.png"/>
+<img src="https://github.com/alpha-soliton/IRLandILinUR5e/blob/master/env/pybulletenv/ur5e_env/test_env/screenshot_ur5e_testenv.png"/>
