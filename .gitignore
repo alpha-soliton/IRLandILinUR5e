@@ -1,1 +1,24 @@
 .DS_Store
+
+/bin
+/build3/gmake
+/build_cmake/
+
+*.pyc
+
+# Python
+__pycache__/
+
+# Pip
+pip-selfchecks.json
+*.whl
+*.egg
+*.egg-info
+
+# Setuptools
+/build
+/dist
+*.eggs
+
+bullet3/
+pybullet_robots/
